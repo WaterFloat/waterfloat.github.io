@@ -1,0 +1,22 @@
+/* 更新日志页面专用样式 */
+/* 此文件仅包含更新日志页面特有的样式覆盖 */
+
+/* 更新日志内容样式 - 减少标题间距 */
+.markdown-content h2 {
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
+}
+
+.markdown-content h3 {
+    margin-top: 15px !important;
+    margin-bottom: 8px !important;
+}
+
+.markdown-content p {
+    margin-bottom: 10px !important;
+}
+
+.markdown-content ul {
+    margin-top: 5px !important;
+    margin-bottom: 10px !important;
+}
