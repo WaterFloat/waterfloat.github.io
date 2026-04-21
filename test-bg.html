@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试SVG背景</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            background-image: url('/assets/images/background.svg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        .content {
+            padding: 50px;
+            color: white;
+            text-align: center;
+        }
+        h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>SVG背景测试</h1>
+        <p>如果你能看到祥云底纹，说明SVG背景工作正常！</p>
+    </div>
+</body>
+</html>

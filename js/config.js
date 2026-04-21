@@ -16,6 +16,20 @@ const ARTICLES = [
         file: 'articles/update-log/update-log.md'
     },
     {
+        id: 'resource-readme',
+        title: '资源说明',
+        date: '2024-01-20',
+        excerpt: '本站提供各类复古Windows系统的资源下载，包括系统补丁、驱动程序、软件工具等...',
+        file: 'articles/resources/resource-readme.md'
+    },
+    {
+        id: '9x-software-list',
+        title: '在Win9x上运行的软件',
+        date: '2024-01-20',
+        excerpt: '收录了可以在 Windows 95/98/ME 系统上运行的软件列表，包括浏览器、办公软件、多媒体工具等...',
+        file: 'articles/resources/9x-software-list.md'
+    },
+    {
         id: 'welcome',
         title: '欢迎来到我的博客',
         date: '2024-01-15',

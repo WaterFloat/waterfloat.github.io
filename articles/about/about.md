@@ -1,10 +1,12 @@
+# 关于本站
+
 ## 🎯 建站目的
 
 **Retro Systems Revival 中文镜像站**的建立，主要是为了解决国内用户访问原站困难的问题。
 
 由于网络原因，原网站 retrosystemsrevival.blogspot.com 在国内无法直接访问，导致许多复古系统爱好者无法获取这些宝贵的资源。
 
-![国内访问示意](../../assets/images/logo-left.png)
+![国内访问示意](./ostan.png)
 
 本站将所有下载资源转存至**国内网盘**，确保国内用户可以**高速、稳定**地下载这些经典软件。
 
@@ -16,7 +18,7 @@
 
 原站 **Retro Systems Revival** 是一个专注于复古 Windows 操作系统的资源博客，由国外爱好者维护多年。
 
-![Windows 进化史示意](../../assets/images/logo-right.png)
+![Windows 进化史示意](./windows.png)
 
 网站涵盖了从 MS-DOS 到 Windows 10 的完整 Windows 进化史，主要提供：
 
