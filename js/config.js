@@ -30,6 +30,13 @@ const ARTICLES = [
         file: 'articles/resources/9x-software-list.md'
     },
     {
+        id: '9x-kex-software-list',
+        title: 'Win9x KEX 兼容软件',
+        date: '2024-01-20',
+        excerpt: '收录了可以在 Windows 98/ME 系统下搭配 KernelEx 运行的应用程序清单，包括浏览器、办公软件、媒体播放器等...',
+        file: 'articles/resources/9x-kex-software-list.md'
+    },
+    {
         id: 'welcome',
         title: '欢迎来到我的博客',
         date: '2024-01-15',
