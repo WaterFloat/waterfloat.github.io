@@ -10,10 +10,17 @@ const ARTICLES = [
     },
     {
         id: 'update-log',
-        title: '更新日志',
+        title: '本站更新日志',
         date: '2024-01-20',
-        excerpt: '记录网站的功能更新和改进历史，包括导航系统、文章系统等功能的开发进度...',
-        file: 'articles/update-log/update-log.md'
+        excerpt: '记录本网站的功能更新和改进历史，包括导航系统、文章系统等功能的开发进度...',
+        file: 'articles/update-log/site-update-log.md'
+    },
+    {
+        id: 'original-update-log',
+        title: '原网站更新日志',
+        date: '2024-01-20',
+        excerpt: '原网站的更新日志，记录了原网站的历史更新内容...',
+        file: 'articles/update-log/original-update-log.md'
     },
     {
         id: 'resource-readme',
@@ -35,6 +42,13 @@ const ARTICLES = [
         date: '2024-01-20',
         excerpt: '收录了可以在 Windows 98/ME 系统下搭配 KernelEx 运行的应用程序清单，包括浏览器、办公软件、媒体播放器等...',
         file: 'articles/resources/9x-kex-software-list.md'
+    },
+    {
+        id: '2k-software-list',
+        title: '在Win2000上运行的软件',
+        date: '2024-01-20',
+        excerpt: '收录了可以在 Windows 2000 系统上运行的软件列表，包括浏览器、办公软件、多媒体工具等...',
+        file: 'articles/resources/2k-software-list.md'
     },
     {
         id: 'welcome',
