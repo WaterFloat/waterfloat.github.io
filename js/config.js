@@ -51,6 +51,13 @@ const ARTICLES = [
         file: 'articles/resources/2k-software-list.md'
     },
     {
+        id: 'xp-software-list',
+        title: '在WinXP上运行的软件',
+        date: '2024-01-20',
+        excerpt: '收录了可以在 Windows XP 系统上运行的软件列表，包括浏览器、办公软件、多媒体工具等...',
+        file: 'articles/resources/xp-software-list.md'
+    },
+    {
         id: 'welcome',
         title: '欢迎来到我的博客',
         date: '2024-01-15',
